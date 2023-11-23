@@ -2,7 +2,13 @@
 
 student details
 
+
+
+
 the question
+
+
+
 
 images
 -show disabled submit button
