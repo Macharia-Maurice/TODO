@@ -39,14 +39,14 @@ Description: The screenshot demonstrates adding a task to the website.
 
 ## Contributors
 
-[Daniel Karume](https://github.com/Karume-lab) SCT211-0072/2022
+[Daniel Karume](https://github.com/Karume-lab)          SCT211-0072/2022
 
-[Mosonik Faith](https://github.com/FaithMosonik) SCT211-0044/2022
+[Mosonik Faith](https://github.com/FaithMosonik)        SCT211-0044/2022
 
-[Peaches Njenga](https://github.com/Peachy-Njenga) SCT211-0004/2022
+[Peaches Njenga](https://github.com/Peachy-Njenga)      SCT211-0004/2022
 
 [Maurice Macharia](https://github.com/Macharia-Maurice) SCT211-0010/2022
 
-[Theuri Boniface](https://github.com/theurikarue) SCT211-0573/2022
+[Theuri Boniface](https://github.com/theurikarue)       SCT211-0573/2022
 
-[Moses Odeny](https://github.com/caspa-moses) SCT211-0099/2022
+[Moses Odeny](https://github.com/caspa-moses)           SCT211-0099/2022
