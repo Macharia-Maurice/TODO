@@ -28,5 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 		// Resetting input
 		newTask.value = '';
+		// Disabling submit
+		submit.disabled = true;
 	});
 });
